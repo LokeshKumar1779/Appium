@@ -1,0 +1,3 @@
+# Created at 2022-02-10T20:18:48.326
+Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "testCases.base.driver" is null
+

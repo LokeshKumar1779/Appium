@@ -2,7 +2,7 @@ package testCases;
 
 import org.testng.annotations.Test;
 
-public class TestClass {
+public class TestClass1 {
 
 	@Test
 	public void method1() {
